@@ -1,0 +1,2 @@
+KEY_LOCK_ENABLE = yes
+BOOTLOADER = atmel-dfu
